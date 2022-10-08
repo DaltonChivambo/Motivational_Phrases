@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
         frases = findViewById(R.id.frases);
         gerarFrases = findViewById(R.id.gerarFrases);
 
-        getSupportActionBar().hide(); //Esconder Barr de cima (Action Bar)
+        getSupportActionBar().hide(); //Esconder Barra de cima (Action Bar)
 
     }
 }
